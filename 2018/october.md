@@ -25,3 +25,4 @@
 - Organized the Rebar planning into a trello board
 - Coordinated a code review session to more fully explain my PR
 - Talked to DJ about the swagger docs
+- Started documenting the different stratagies we have for removing code with Mo
